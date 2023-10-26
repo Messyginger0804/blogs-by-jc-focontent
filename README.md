@@ -52,6 +52,8 @@ Welcome to Blogs by JC, where you can explore a collection of rich MDX content.
 
 Creating Blogs by JC posed several challenges, as this was my first project attempting to utilize these technologies and tools:
 
+**Next-sitemap** **Dynamic Rounting** **MDX** **Rehypeslug**
+
 - **First-Time Utilization:** This project marked my first experience with MDX, Nextjs Dynamic routing, and next-sitemap for SEO optimization.
 
 ## Future Plans
@@ -62,10 +64,10 @@ For Blogs by JC, I have the following plans for future improvements and enhancem
 
 ## License
 
-Blogs by JC is open-source, and its code is available in the associated [GitHub repository](insert-link-here). You are welcome to use, modify, or distribute the code as per the project's license.
+Blogs by JC is open-source, and its code is available in the associated [GitHub repository](https://github.com/Messyginger0804/blogs-by-jc-focontent). You are welcome to use, modify, or distribute the code as per the project's license.
 
 ## Contact
 
-If you have any questions, feedback, or would like to connect with me, you can reach out via [insert contact information].
+If you have any questions, feedback, or would like to connect with me, you can reach out via [Linkedin](https://www.linkedin.com/in/jeremy-ashley-webdev/).
 
 Thank you for visiting Blogs by JC, and I look forward to sharing more content and insights in the future!
