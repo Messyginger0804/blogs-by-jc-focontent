@@ -32,15 +32,13 @@ In the creation of **Blogs by JC**, I made use of the following technologies:
 
 ## How to Use
 
-To explore and interact with **Blogs by JC**, simply follow these steps:
+To explore and interact with **Blogs by JC**, simply going to: https://blogs-by-jc-focontent.vercel.app/
 
 1. Clone or download the project repository to your local machine.
 
 2. Navigate to the project directory.
 
 3. Run the application using Next.js:
-
-   ```bash
    npm install
    npm run dev
 
