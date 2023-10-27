@@ -4,11 +4,11 @@ Welcome to **Blogs by JC**, a blog site powered by Next.js, Tailwind CSS, and Co
 
 ## Project Overview
 
-- **Project Name:** Blogs by JC
-- **Framework:** Next.js
-- **Styling:** Tailwind CSS
-- **Content Management:** Contentlayer
-- **Developed By:** Jeremy Ashley
+- **Project Name:** [Blogs by JC](https://blogs-by-jc-focontent.vercel.app/)
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Content Management:** [Contentlayer](https://contentlayer.dev/)
+- **Developed By:** [Jeremy Ashley](https://jcashleyportfolio.netlify.app/)
 - **GitHub Repository:** https://github.com/Messyginger0804/blogs-by-jc-focontent
 
 ## Features
